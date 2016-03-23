@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="pro_mug.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pro_mug"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Images/UI.png"/>
+        </Grid.Background>
+        <TextBlock x:Name="Clock" Margin="60,219,65,316" TextWrapping="Wrap" Text="12:35" FontSize="96" d:LayoutOverrides="TopPosition, BottomPosition">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="1.029,0.401" StartPoint="-0.193,0.329">
+                    <LinearGradientBrush.RelativeTransform>
+                        <CompositeTransform CenterY="0.36500000953674316" CenterX="0.41800001263618469" ScaleY="0.778" ScaleX="0.715" TranslateX="-0.171" TranslateY="0.264" Rotation="84.485"/>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#FF0A0505"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FF4B4848" Offset="0.473"/>
+                    <GradientStop Color="#FF0E0808" Offset="0.946"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <TextBlock x:Name="textBlock" Height="50" Margin="0,262,27,0" TextWrapping="Wrap" Text="AM" VerticalAlignment="Top" Foreground="Black" FontSize="48" HorizontalAlignment="Right" Width="75"/>
+        <TextBlock x:Name="textBlock1" Margin="90,0,95,221" TextWrapping="Wrap" Text="User's Pro mug " FontSize="26.667" Foreground="#FF0E1C51" Height="50" VerticalAlignment="Bottom"/>
+        <Button x:Name="button" Content="" HorizontalAlignment="Stretch" Height="86" Margin="145,0,146,0" VerticalAlignment="Bottom">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Logo.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>
+

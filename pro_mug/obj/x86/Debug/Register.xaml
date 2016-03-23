@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="pro_mug.Register"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pro_mug"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="0,0.333,0,-0.333">
+
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Images/p.PNG"/>
+        </Grid.Background>
+
+        <TextBlock x:Name="textBlock1" Height="90" Margin="80,50,70,0" TextWrapping="Wrap" Text="Sign up for Pro  mug? " VerticalAlignment="Top" Foreground="#FF080606" FontSize="32" FontFamily="Segoe UI Light"/>
+        <TextBox PlaceholderText="First name" Margin="38,184,0,0" Background="White" BorderBrush="Black" Foreground="Black" HorizontalAlignment="Left" Width="154"/>
+        <TextBox PlaceholderText="Last Name" Margin="207,184,0,0" VerticalAlignment="Top" Background="White" BorderBrush="Black" Foreground="Black" HorizontalAlignment="Left" Width="154"/>
+        <TextBox PlaceholderText="Nickname" Margin="36,240,0,0" Background="White" BorderBrush="Black" Foreground="Black" HorizontalAlignment="Left" Width="154"/>
+        <Button x:ConnectionId='1' x:Name="btnNext"                     Content="Next" Height="10" Margin="221,0,70,58" VerticalAlignment="Bottom" Width="95" HorizontalAlignment="Stretch" Foreground="White" BorderBrush="Black" Background="#FF0D1B5B" RenderTransformOrigin="0.535,-0.293"/>
+
+
+        <Path Data="M10,134 L190,134" Fill="#FFF4F4F5" Height="1" Margin="36.083,167.268,38.917,0" Stretch="Fill" Stroke="Black" UseLayoutRounding="False" VerticalAlignment="Top" d:LayoutOverrides="LeftPosition, RightPosition" StrokeThickness="26"/>
+        <DatePicker Margin="36,315,0,272" Background="White" BorderBrush="Black" Foreground="Black" d:LayoutOverrides="TopPosition, BottomPosition" HorizontalAlignment="Left" Width="154"/>
+        <CheckBox x:Name="Gender" Content="Male" HorizontalAlignment="Right" Margin="0,274,11,300" VerticalAlignment="Stretch" Background="White" Foreground="Black" FontSize="48" BorderBrush="Black" d:LayoutOverrides="TopPosition, BottomPosition" Width="140"/>
+        <CheckBox x:Name="Gender_Copy" Content="Female" HorizontalAlignment="Right" Margin="0,224,11,0" VerticalAlignment="Top" Background="White" Foreground="Black" FontSize="48" BorderBrush="Black" Height="55" Width="168"/>
+        <TextBlock x:Name="textBlock2" Margin="36,293,0,313" TextWrapping="Wrap" Text="birthday" Foreground="Black" FontSize="18.667" d:LayoutOverrides="TopPosition, BottomPosition" HorizontalAlignment="Left" Width="154"/>
+        <TextBox PlaceholderText="Email" Margin="38,0,0,181" Background="White" BorderBrush="Black" Foreground="Black" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="294"/>
+        <TextBox PlaceholderText="Contact No." Margin="36,0,0,127" Background="White" BorderBrush="Black" Foreground="Black" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="294"/>
+        <Grid Margin="0,140,0,111">
+            <TextBlock x:Name="textBlock" Height="29" Margin="46,0,127,132" TextWrapping="Wrap" Text="Contact Details" VerticalAlignment="Bottom" Foreground="Black" FontSize="24" d:LayoutOverrides="LeftPosition, RightPosition"/>
+            <Path Data="M41,257.167 L273,257.167" Fill="Black" Height="1" Margin="51,0,70,129.831" Stretch="Fill" Stroke="Black" UseLayoutRounding="False" VerticalAlignment="Bottom" d:LayoutOverrides="LeftPosition, RightPosition" StrokeThickness="5"/>
+            <TextBlock x:Name="textBlock_Copy" Height="29" Margin="46,0,127,0" TextWrapping="Wrap" Text="Personal Details" VerticalAlignment="Top" Foreground="Black" FontSize="24" d:LayoutOverrides="LeftPosition, RightPosition"/>
+        </Grid>
+        <Button x:ConnectionId='2' x:Name="btnBackRegister"                     Content="Back" Height="10" Margin="56,0,235,58" VerticalAlignment="Bottom" Width="95" HorizontalAlignment="Stretch" Foreground="White" BorderBrush="Black" Background="#FF870309" RenderTransformOrigin="0.535,-0.293"/>
+
+
+
+    </Grid>
+</Page>
+

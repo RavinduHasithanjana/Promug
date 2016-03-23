@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-F998G08</Machine>
+    <WindowsUser>Obhasha</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>b1df5abb-ebc4-4e58-a175-cf6ac3311c6a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\x86\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\pro_mug.exe">
+      <PackagePath>pro_mug.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Assets\BadgeLogo.scale-240.jpg">
+      <PackagePath>Assets\BadgeLogo.scale-240.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\back.jpg">
+      <PackagePath>Images\back.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\back.png">
+      <PackagePath>Images\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\drink.png">
+      <PackagePath>Images\drink.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\face.png">
+      <PackagePath>Images\face.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\gluco.png">
+      <PackagePath>Images\gluco.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\icon.png">
+      <PackagePath>Images\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\loading screen.png">
+      <PackagePath>Images\loading screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\login.png">
+      <PackagePath>Images\login.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\loginss.PNG">
+      <PackagePath>Images\loginss.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\mail.png">
+      <PackagePath>Images\mail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\medi.png">
+      <PackagePath>Images\medi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\menu.png">
+      <PackagePath>Images\menu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\music.png">
+      <PackagePath>Images\music.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\p.PNG">
+      <PackagePath>Images\p.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\recipe.png">
+      <PackagePath>Images\recipe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\reminder.png">
+      <PackagePath>Images\reminder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\satat.png">
+      <PackagePath>Images\satat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\Images\UI.png">
+      <PackagePath>Images\UI.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\pro_mug.xr.xml">
+      <PackagePath>pro_mug.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\Login.xbf">
+      <PackagePath>Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\MainMenu.xbf">
+      <PackagePath>MainMenu.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\Register.xbf">
+      <PackagePath>Register.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\RegisterPart2.xbf">
+      <PackagePath>RegisterPart2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

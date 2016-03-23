@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="pro_mug.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pro_mug"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Images/UI.png"/>
+        </Grid.Background>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="138,35,0,0" TextWrapping="Wrap" Text="Menu" VerticalAlignment="Top" Height="52" Width="140" FontSize="48"/>
+        <Button x:Name="button" Content="Daily intake" HorizontalAlignment="Left" Margin="138,177,0,0" VerticalAlignment="Top" Width="140"/>
+        <Button x:Name="button_Copy" Content="Schedules" HorizontalAlignment="Left" Margin="138,263,0,0" VerticalAlignment="Top" Width="140"/>
+        <Button x:Name="button_Copy1" Content="Health profile" HorizontalAlignment="Left" Margin="138,357,0,0" VerticalAlignment="Top" Width="140"/>
+        <Button x:Name="button1" Content="log out" HorizontalAlignment="Left" Margin="27,582,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Page>
+

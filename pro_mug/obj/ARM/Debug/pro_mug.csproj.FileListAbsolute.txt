@@ -1,0 +1,125 @@
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\App.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\BlankPage1.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\Login.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\MainMenu.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\MainPage.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\Register.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\RegisterPart2.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\pro_mug.xr.xml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\pro_mug.exe
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\pro_mug.pdb
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\resources.pri
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\pro_mug.build.appxrecipe
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\bin\ARM\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\App.g.i.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\App.g.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\BlankPage1.g.i.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\BlankPage1.g.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\Login.g.i.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\Login.g.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\MainMenu.g.i.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\MainMenu.g.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\Register.g.i.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\Register.g.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\RegisterPart2.g.i.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\RegisterPart2.g.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\App.xaml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\BlankPage1.xaml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\Login.xaml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\MainMenu.xaml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\MainPage.xaml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\Register.xaml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\RegisterPart2.xaml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\App.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\BlankPage1.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\Login.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\MainMenu.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\MainPage.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\Register.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\RegisterPart2.xbf
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\pro_mug.exe
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\pro_mug.pdb
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\pro_mug.csproj.GenerateResource.Cache
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\priconfig.xml
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\layout.resfiles
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\resources.resfiles
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\pri.resfiles
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\qualifiers.txt
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Obhasha\Documents\Visual Studio 2015\Projects\pro_mug\pro_mug\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\App.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\Login.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\MainMenu.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\MainPage.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\Register.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\RegisterPart2.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\pro_mug.xr.xml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\pro_mug.exe
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\pro_mug.pdb
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\resources.pri
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\pro_mug.build.appxrecipe
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\App.g.i.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\App.g.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\Login.g.i.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\Login.g.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\MainMenu.g.i.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\MainMenu.g.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\Register.g.i.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\Register.g.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\RegisterPart2.g.i.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\RegisterPart2.g.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\App.xaml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\Login.xaml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\MainMenu.xaml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\MainPage.xaml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\Register.xaml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\RegisterPart2.xaml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\App.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\Login.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\MainMenu.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\MainPage.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\Register.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\RegisterPart2.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\pro_mug.exe
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\pro_mug.pdb
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\pro_mug.csproj.GenerateResource.Cache
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\priconfig.xml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\layout.resfiles
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\resources.resfiles
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\pri.resfiles
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\qualifiers.txt
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\ex.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\ex.g.i.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\ex.g.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\ex.xaml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\ex.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\bin\ARM\Debug\health.xbf
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\health.g.i.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\health.g.cs
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\health.xaml
+C:\Users\Ravindu\Desktop\pro_mug\pro_mug\obj\ARM\Debug\health.xbf

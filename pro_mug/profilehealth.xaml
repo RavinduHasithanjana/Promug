@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="pro_mug.profilehealth"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pro_mug"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Images/UI.png"/>
+        </Grid.Background>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="44,164,0,0" TextWrapping="Wrap" Text=" Amount of calories" VerticalAlignment="Top" Height="94" Width="309" BorderBrush="#FF211D1D" Foreground="#FFFBF7F7" Background="{x:Null}" FontSize="29.333"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Margin="110,373,0,0" TextWrapping="Wrap" Text="Total calories per day" VerticalAlignment="Top" Height="39" Width="237" BorderBrush="#FF211D1D" Background="{x:Null}" Foreground="#FFF3F2F2"/>
+        <Button x:Name="button" Content="Back" HorizontalAlignment="Left" Margin="12,569,0,0" VerticalAlignment="Top" Background="#FFDC3131" BorderBrush="#FF0E0D0D" Foreground="#FF1D1B1B" Height="59" Width="112"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="110,64,0,0" TextWrapping="Wrap" Text="       39 j" VerticalAlignment="Top" Height="58" Width="169" FontSize="29.333"/>
+    </Grid>
+</Page>
